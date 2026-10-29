@@ -1,0 +1,3 @@
+Model,Test Accuracy (%),Test Loss,Macro Precision (%),Macro Recall (%),Macro F1-score (%)
+Custom CNN,97.73,0.075071,97.21,96.65,96.85
+ResNet18,95.91,0.129822,95.46,94.54,94.9

@@ -1,0 +1,23 @@
+ 
+# Dataset folder
+data/
+
+# Submission ZIP — keep local
+Plant_Disease_Classification_Final_Submission.zip
+
+# Python environment
+environment/
+venv/
+.venv/
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cache/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
