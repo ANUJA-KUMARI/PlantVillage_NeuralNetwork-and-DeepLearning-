@@ -1,0 +1,20 @@
+PLANT DISEASE CLASSIFICATION — MODEL COMPARISON
+
+Dataset: PlantVillage
+Number of classes: 38
+Test images: 10,704
+
+     Model  Test Accuracy (%)  Macro Precision (%)  Macro Recall (%)  Macro F1-score (%)
+Custom CNN              97.73                97.21             96.65               96.85
+  ResNet18              95.91                95.46             94.54               94.90
+
+Best model by test accuracy: Custom CNN
+Test accuracy: 97.73%
+Macro precision: 97.21%
+Macro recall: 96.65%
+Macro F1-score: 96.85%
+
+Conclusion:
+The Custom CNN achieved higher test accuracy, macro precision,
+macro recall, and macro F1-score than ResNet18 in these experiments.
+These results apply to the current dataset and training setup.
